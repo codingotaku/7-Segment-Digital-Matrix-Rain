@@ -4,4 +4,4 @@ Inspired by tomscott's video https://youtu.be/zp4BMR88260, @shiffman coding chal
 
 ## 7 segment matrix digital rain!!!.
 
-watch the full screen version at [p5js editor](https://editor.p5js.org/full/H1xRZBGom)
+watch the full screen version at [p5js editor](https://editor.p5js.org/full/H1xRZBGom) or from my [website](http://codingotaku.com/7-Segment-Digital-Matrix-Rain/)
